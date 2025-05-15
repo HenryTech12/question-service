@@ -18,5 +18,6 @@ This is the Question Service in a microservices-based Java application. It provi
 - RESTful API structure
 
 ## Links
-Quiz Service Repository Url: 
-Eureka Server For Both Services Url: 
+- Quiz Service Repository Url:
+  [quiz service] (https://github.com/HenryTech12/quiz-service)
+- Eureka Server For Both Services Url: [eureka server] (https://github.com/HenryTech12/Eureka-Server-For-Quiz-and-Question-Service/tree/eureka-server)
